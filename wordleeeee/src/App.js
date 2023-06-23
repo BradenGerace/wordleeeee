@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 
 const WORD_LIST = [
-  'abandoned',
-  'algorithm',
+  'abandoners',
+  'algorithms',
   'basketball',
   // Add more 10-letter words to the list
 ];
