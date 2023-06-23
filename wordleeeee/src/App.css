@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+.feedback-container {
+  margin-top: 1rem;
+}
+
+.feedback {
+  display: inline-block;
+  width: 1.5rem;
+  height: 1.5rem;
+  border: 1px solid black;
+  margin: 0 0.2rem;
+}
+
+.correct {
+  background-color: green;
+}
+
+.close {
+  background-color: yellow;
+}
+
+.incorrect {
+  background-color: red;
+}
+
